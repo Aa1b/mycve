@@ -7,12 +7,15 @@ AoBo Li
 Affected version:
 
 Prison Management System Using PHP V1.0
+
 Vendor:
 
 Fast5
+
 Software:
 
 https://www.sourcecodester.com/sql/17287/prison-management-system.html
+
 Vulnerability File:
 
 /Employee/edit-photo.php
@@ -20,7 +23,10 @@ Vulnerability File:
 /Admin/add-admin.php
 
 
+
 Description:
+
+
 
 **1. Vulnerability Description**
 
@@ -97,7 +103,11 @@ Content-Disposition: form-data; name="btncreate"
 
 ![image-20240925205632083](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20240925205632083.png)
 
+
+
 **3. Impact**
+
+
 
 The impact of this vulnerability can be severe. An attacker can upload and execute arbitrary code on the server, leading to:
 
