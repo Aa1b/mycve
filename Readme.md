@@ -43,7 +43,7 @@ The following steps demonstrate how to exploit the arbitrary file upload vulnera
 5. **The application saves the file on the server without proper validation.**
 6. **Access the uploaded file via a direct URL and execute it.**
 
-![image-20240925204658976](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20240925204658976.png)
+![image-20240925204658976](.\image\image-20240925204658976.png)
 
 The data packet is as follows
 
@@ -97,11 +97,11 @@ Content-Disposition: form-data; name="btncreate"
 
 ```
 
-![image-20240925205346343](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20240925205346343.png)
+![image-20240925205346343](.\image\image-20240925205346343.png)
 
-![image-20240925210016665](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20240925210016665.png)
+![image-20240925210016665](.\image\image-20240925210016665.png)
 
-![image-20240925205632083](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20240925205632083.png)
+![image-20240925205632083](.\image\image-20240925205632083.png)
 
 
 
